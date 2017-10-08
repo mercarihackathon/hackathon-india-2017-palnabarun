@@ -11,7 +11,9 @@ and low lying areas.
 - Postgresql
 - Flask
 - Bootstrap
-_future tech stack breelow_
+
+_future tech stack below_
+
 - MicroPython
 - Celery
 - Android
